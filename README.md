@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# tRPC with Next.js, TypeScript & Prisma
+
+## Why you should be learning & using tRPC
+* Making E2E type-safe APIs is fun and easy
+* Gives you a deeper understanding of Next.js 
+* Going to be very popular (prediction)
+
+
+## Technologies used
+* tRPC
+* TypeScript
+* Prisma (Postgres)
+* Zod - Schema validation & type generation
+* nodemailer - Sending OTP emails
+
+
 
 ## Getting Started
 
