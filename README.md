@@ -3,7 +3,7 @@
 ## Why you should be learning & using tRPC
 
 - Making E2E type-safe APIs is fun and easy
-- Gives you a deeper understanding of Next.js
+- deeper understanding of Next.js
 - Going to be very popular (prediction)
 
 ## Technologies used
