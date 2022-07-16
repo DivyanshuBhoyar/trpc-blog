@@ -1,19 +1,24 @@
 # tRPC with Next.js, TypeScript & Prisma
 
 ## Why you should be learning & using tRPC
-* Making E2E type-safe APIs is fun and easy
-* Gives you a deeper understanding of Next.js 
-* Going to be very popular (prediction)
 
+- Making E2E type-safe APIs is fun and easy
+- Gives you a deeper understanding of Next.js
+- Going to be very popular (prediction)
 
 ## Technologies used
-* tRPC
-* TypeScript
-* Prisma (Postgres)
-* Zod - Schema validation & type generation
-* nodemailer - Sending OTP emails
 
+- tRPC
+- TypeScript
+- Prisma (Postgres)
+- Zod - Schema validation & type generation
+- nodemailer - Sending OTP emails
 
+![screenshots](./screenshots/ss1.png)
+![screenshots](./screenshots/ss2.png)
+![screenshots](./screenshots/ss3.png)
+![screenshots](./screenshots/ss4.png)
+![screenshots](./screenshots/ss5.png)
 
 ## Getting Started
 

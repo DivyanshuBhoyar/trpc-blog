@@ -29,7 +29,7 @@ function MyApp({ Component, pageProps }: AppProps) {
 // * configuring trpc with nextjs frontend
 export default withTRPC<AppRouter>({
   config({ ctx }) {
-    
+
     // use links feature to optimize performance
     const links = [
       loggerLink(),
@@ -47,7 +47,6 @@ export default withTRPC<AppRouter>({
           },
         },
       },
-      
       headers() {
         if (ctx?.req) {
           return {

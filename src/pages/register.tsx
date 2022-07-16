@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { useForm } from 'react-hook-form'
+
 import { CreateUserInput } from '../schema/user.schema'
 import { trpc } from '../utils/trpc'
 
